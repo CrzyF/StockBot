@@ -2,8 +2,8 @@ import os
 import telebot
 import yfinance as yf
 
-API_KEY = os.getenv('1702576884:AAHVo8KZvP-ka5hrcqknLNZQndpI1TSx6Tw')
-bot = telebot.TeleBot('1702576884:AAHVo8KZvP-ka5hrcqknLNZQndpI1TSx6Tw')
+API_KEY = os.getenv('YOUR_APIKEY_HERE')
+bot = telebot.TeleBot('YOUR_APIKEY_HERE')
 
 @bot.message_handler(commands=['Greet'])
 def greet(message):
