@@ -7,7 +7,9 @@ Introducing StockBot, your interactive Telegram companion for real-time stock an
 ## Installation
 
 ```bash
-git clone "https://github.com/CrzyF/Virtual-Assistant.git"
+git clone "https://github.com/CrzyF/StockBot.git"
+```
+```bash
 pip3 install -r requirements.txt
 ```
 
