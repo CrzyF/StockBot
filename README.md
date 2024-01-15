@@ -2,7 +2,7 @@
 
 Introducing StockBot, your interactive Telegram companion for real-time stock and forex information. This intuitive bot brings financial data at your fingertips, offering opening and closing prices with a simple command.
 
-![app screenshot](https://github.com/CrzyF/StockBot/blob/main/stockbot.py)
+![app screenshot](https://github.com/CrzyF/StockBot/blob/main/Stockbot.jpeg)
 
 ## Installation
 
